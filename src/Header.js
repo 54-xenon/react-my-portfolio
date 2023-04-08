@@ -2,8 +2,10 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div>
-        <h1>Apple信者@RAM不足</h1>
+    <header>
+        <div className="logo">
+            <h1>Apple信者@RAM不足</h1>
+        </div>
         <nav>
             <ul>
                 <li>
@@ -13,11 +15,12 @@ const Header = () => {
                     <a href="#">Blog</a>
                 </li>
                 <li>
-                    <a href="#">Link</a>
+                    <a href="#">SNS</a>
                 </li>
             </ul>
         </nav>
-    </div>
+    </header>
+
   )
 }
 
