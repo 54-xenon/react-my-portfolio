@@ -2,7 +2,7 @@ import React from 'react'
 
 const Blogpage = () => {
   return (
-    <div>Copding journal</div>
+    <div className='container'>Copding journal</div>
   )
 }
 

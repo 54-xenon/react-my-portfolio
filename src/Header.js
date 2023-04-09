@@ -13,7 +13,7 @@ const Header = () => {
                 
                 <li><Link to="/blog">Blog</Link></li>
                 <li>
-                    <a href="#">SNS</a>
+                    <a href="https://twitter.com/M9zRs0VDM9RTU7B">SNS</a>
                 </li>
             </ul>
         </nav>
