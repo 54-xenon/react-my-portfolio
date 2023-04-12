@@ -7,6 +7,7 @@ const Homepage = () => {
       <div className='clip-bg'>
         <h1>Cooding Journal</h1>
       </div>
+
     </div>
 
     </div>
